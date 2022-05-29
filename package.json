@@ -1,0 +1,21 @@
+{
+    "name": "taiga",
+    "displayName": "Taiga",
+    "description": "Taiga color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Taiga",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Taiga-color-theme.json"
+            }
+        ]
+    }
+}
