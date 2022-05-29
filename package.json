@@ -2,7 +2,24 @@
     "name": "taiga",
     "displayName": "Taiga",
     "description": "Taiga color theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "daniilshatukhin",
+    "icon": "./src/img/taiga-logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/daniilshat/taiga"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "taiga",
+        "taiga theme",
+        "green",
+        "green theme",
+        "daniilshat",
+        "wa1pper",
+        "daniilshatukhin"
+    ],
     "engines": {
         "vscode": "^1.67.0"
     },
