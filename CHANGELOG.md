@@ -1,9 +1,4 @@
 # Change Log
 
-All notable changes to the "taiga" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+### 1.0.0
+Added: Theme colors, editor colors and syntax colors

@@ -18,6 +18,8 @@
 ![](https://raw.githubusercontent.com/daniilshat/taiga/main/src/img/preview-command-palette.png)
 
 ## Лицензия
-[]()
+[MIT © Daniil Shatukhin](https://github.com/daniilshat/taiga/blob/main/LICENSE)   
+
+---
 
 Сделал [@daniilshat](https://github.com/daniilshat) с помощью [Theme Studio](https://themes.vscode.one/)

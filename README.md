@@ -20,6 +20,8 @@ Taiga — colorful and minimalistic theme for Visual Studio Code. Made with love
 ![](https://raw.githubusercontent.com/daniilshat/taiga/main/src/img/preview-command-palette.png)
 
 ## License
-[]()
+[MIT © Daniil Shatukhin](https://github.com/daniilshat/taiga/blob/main/LICENSE)   
+
+---
 
 Made by [@daniilshat](https://github.com/daniilshat) with [Theme Studio](https://themes.vscode.one/)
