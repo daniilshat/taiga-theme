@@ -4,7 +4,7 @@
     "description": "Taiga color theme",
     "version": "1.0.0",
     "publisher": "daniilshat",
-    "icon": "./src/img/taiga-logo.png",
+    "icon": "taiga-logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/daniilshat/taiga"
