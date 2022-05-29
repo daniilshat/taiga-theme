@@ -4,6 +4,10 @@
 
 Тайга (Taiga) — красочная и минималистичная тема для Visual Studio Code. Сделанная в качестве первого проекта модификаций для редактора Visual Studio Code.
 
+## Скачать
+Visual Studio Marketplace — [ссылка](https://marketplace.visualstudio.com/items?itemName=daniilshat.taiga)   
+Theme Studio — [ссылка](https://themes.vscode.one/theme/wa1pper/cMuxaqKp)  
+
 ## Используемые цвета
 ![](https://raw.githubusercontent.com/daniilshat/taiga/main/src/img/colors.png)
 

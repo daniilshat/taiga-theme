@@ -6,6 +6,10 @@ README.md на [русском](https://github.com/daniilshat/taiga/blob/main/sr
 
 Taiga — colorful and minimalistic theme for Visual Studio Code. Made with love as the first theme for me.
 
+## Download
+Visual Studio Marketplace — [link](https://marketplace.visualstudio.com/items?itemName=daniilshat.taiga)   
+Theme Studio — [link](https://themes.vscode.one/theme/wa1pper/cMuxaqKp)   
+
 ## The colors are used
 ![](https://raw.githubusercontent.com/daniilshat/taiga/main/src/img/colors.png)
 
