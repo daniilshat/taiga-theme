@@ -3,7 +3,7 @@
     "displayName": "Taiga",
     "description": "Taiga color theme",
     "version": "1.0.0",
-    "publisher": "daniilshatukhin",
+    "publisher": "daniilshat",
     "icon": "./src/img/taiga-logo.png",
     "repository": {
         "type": "git",
